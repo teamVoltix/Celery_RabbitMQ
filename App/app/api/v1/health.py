@@ -1,0 +1,1 @@
+# Endpoints para chequear el estado

@@ -1,0 +1,1 @@
+# Imagen para el microservicio

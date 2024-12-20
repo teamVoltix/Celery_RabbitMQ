@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+celery[rabbitmq]
+pika
+kombu
+python-environ
+requests
+pydantic
